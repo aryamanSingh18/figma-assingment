@@ -1,11 +1,29 @@
+# Vision Landing Page
 
-  # Develop React Webpage
+A modern and responsive business landing page built with React, TypeScript, Vite, and Tailwind CSS.
+#Features
 
-  This is a code bundle for Develop React Webpage. The original project is available at https://www.figma.com/design/0bvIT7R7VHfU3Vvey5Zt7t/Develop-React-Webpage.
+ Responsive design for desktop and mobile devices
+ Smooth scroll animations
+ Modern UI components
+ Testimonial and newsletter sections
+ Clean and reusable component structure
 
-  ## Running the code
+#Tech Stack
 
-  Run `npm i` to install the dependencies.
+ React
+ TypeScript
+ Vite
+ Tailwind CSS
+ Framer Motion
 
-  Run `npm run dev` to start the development server.
-  
+#Installation
+
+```bash
+npm install
+npm run dev
+```
+
+#Author
+
+Aryaman Singh Chouhan
